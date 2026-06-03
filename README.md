@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! <img src="https://raw.githubusercontent.com/martinring/github-readme-profiles/main/profile/playing.gif" width="30vw">
+# Hi there! <img src="https://raw.githubusercontent.com/martinring/github-readme-profiles/main/profile/playing.gif" width="30">
 
-<img src="https://komarev.com/ghvc/?username=lingeshwar24&label=Profile%20Views&color=0e76a8&style=flat-square" alt="lingeshwar24" />
+<img src="https://komarev.com/ghvc/?username=lingeshwar24&label=Profile%20Views&color=0e76a8&style=flat-square" alt="lingeshwar24 views" />
 
 <br/>
 
@@ -68,7 +68,7 @@ Hello! I'm **Lingeshwar Reddy Pattikonda**, a passionate **Software Developer** 
         <img src="https://github-readme-stats.vercel.app/api?username=lingeshwar24&show_icons=true&theme=tokyonight&count_private=true" alt="Lingeshwar's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stroke-stats.vercel.app/?username=lingeshwar24&theme=tokyonight" alt="Lingeshwar's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=lingeshwar24&theme=tokyonight" alt="Lingeshwar's Streak Stats" />
       </td>
     </tr>
     <tr>
@@ -89,6 +89,8 @@ I am always open to discussing software development, architectural designs, AI i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lingeshwar-reddy-pattikonda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lingeshwar24.github.io/portfolio/)
+
+<br/>
 
 **"Code is like humor. When you have to explain it, it’s bad."** — Keep it clean, keep it modular! 💻✨
 </div>
